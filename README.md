@@ -7,6 +7,7 @@ or
 ```
 npm i rag3d
 ```
+# Update Package
 After you put this inside your terminal make sure it's up to date
 ```
 npm i -g npm-check-updates
