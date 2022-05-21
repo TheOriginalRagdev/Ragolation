@@ -12,6 +12,7 @@ After you put this inside your terminal make sure it's up to date
 ```
 npm i -g npm-check-updates
 ncu -u
+npm update
 npm install
 ```
 # Usage
