@@ -3,6 +3,10 @@ First thing you do is put this inside of your terminal.
 ```
 npm install rag3d
 ```
+or
+```
+npm i rag3d
+```
 After you put this inside your terminal make sure it's up to date
 ```
 npm i -g npm-check-updates
